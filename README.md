@@ -1,2 +1,2 @@
 # Mindy
-Mobile Game currently my biggest project in unity
+Mobile Game Scripts currently my biggest project in unity
